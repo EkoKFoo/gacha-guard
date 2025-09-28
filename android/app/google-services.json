@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "6293016505",
+    "project_id": "gacha-guard",
+    "storage_bucket": "gacha-guard.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:6293016505:android:b3873f12198b3f4623f068",
+        "android_client_info": {
+          "package_name": "com.example.gacha_guard"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBpgNzMDA-qllCVEXmNl1WAThk4rJ9-l4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
