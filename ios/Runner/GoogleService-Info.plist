@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>6293016505-fatsrkvfsoscl3ccpi2ribidrbe2ld2e.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.6293016505-fatsrkvfsoscl3ccpi2ribidrbe2ld2e</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>6293016505-7bdnkq3asq7rcfsq1cve750skn50og04.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD5N05wC4TCbtSQTzgsVGPh2K-0OwW5m7Q</string>
+	<key>GCM_SENDER_ID</key>
+	<string>6293016505</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.gachaGuard</string>
+	<key>PROJECT_ID</key>
+	<string>gacha-guard</string>
+	<key>STORAGE_BUCKET</key>
+	<string>gacha-guard.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:6293016505:ios:1a35086fdbeb65ec23f068</string>
+</dict>
+</plist>

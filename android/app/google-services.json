@@ -12,7 +12,20 @@
           "package_name": "com.example.gacha_guard"
         }
       },
-      "oauth_client": [],
+      "oauth_client": [
+        {
+          "client_id": "6293016505-7bdnkq3asq7rcfsq1cve750skn50og04.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gacha_guard",
+            "certificate_hash": "77527e80b58628204d49c68e4238f30a50290356"
+          }
+        },
+        {
+          "client_id": "6293016505-qn6lf5mo8ub2ck7p3fuqooqmj03ocmto.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
       "api_key": [
         {
           "current_key": "AIzaSyCBpgNzMDA-qllCVEXmNl1WAThk4rJ9-l4"
@@ -20,7 +33,19 @@
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": []
+          "other_platform_oauth_client": [
+            {
+              "client_id": "6293016505-qn6lf5mo8ub2ck7p3fuqooqmj03ocmto.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "6293016505-fatsrkvfsoscl3ccpi2ribidrbe2ld2e.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.gachaGuard"
+              }
+            }
+          ]
         }
       }
     }

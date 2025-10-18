@@ -8,6 +8,24 @@
 	<string>Gacha Guard</string>
 	<key>CFBundleExecutable</key>
 	<string>$(EXECUTABLE_NAME)</string>
+	<!-- Put me in the [my_project]/ios/Runner/Info.plist file -->
+	<key>GIDServerClientID</key>
+	<string>6293016505-fatsrkvfsoscl3ccpi2ribidrbe2ld2e.apps.googleusercontent.com</string>
+	<!-- Google Sign-in Section -->
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<!-- TODO Replace this value: -->
+				<!-- Copied from GoogleService-Info.plist key REVERSED_CLIENT_ID -->
+				<string>com.googleusercontent.apps.6293016505-fatsrkvfsoscl3ccpi2ribidrbe2ld2e</string>
+			</array>
+		</dict>
+	</array>
+	<!-- End of the Google Sign-in Section -->
 	<key>CFBundleIdentifier</key>
 	<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
 	<key>CFBundleInfoDictionaryVersion</key>
